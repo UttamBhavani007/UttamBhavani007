@@ -8,7 +8,7 @@ My experience has grown from **software and backend development to cloud applica
 
 **Current interests:** Generative AI · LLM applications · RAG · AI agents · Evaluation
 
-📍 Stuttgart, Germany · Expected graduation: March 2027 · Open to relocation within Germany
+📍 Stuttgart, Germany · Expected graduation: March 2028 · Open to relocation within Germany
 
 [LinkedIn](https://www.linkedin.com/in/uttambhavani) · [Email](mailto:uttambhavani07@gmail.com) · [GitHub](https://github.com/UttamBhavani007)
 
